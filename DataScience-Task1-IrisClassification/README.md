@@ -1,4 +1,4 @@
-# Task 1 — Iris Flower Classification
+# Task 1: Iris Flower Classification
 
 Data Science Internship, Oasis Infobyte SIP
 
@@ -6,7 +6,7 @@ Data Science Internship, Oasis Infobyte SIP
 Train and compare machine learning models to classify iris flowers into one of three species (Setosa, Versicolor, Virginica) based on their sepal and petal measurements.
 
 ## Dataset
-Built directly into scikit-learn via `sklearn.datasets.load_iris()` — 150 samples, 4 numeric features, 3 balanced classes, no missing values.
+Built directly into scikit-learn via `sklearn.datasets.load_iris()`, with 150 samples, 4 numeric features, 3 balanced classes, and no missing values.
 
 ## Tech Stack
 Python, pandas, scikit-learn, matplotlib, seaborn, Jupyter Notebook
