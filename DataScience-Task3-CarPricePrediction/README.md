@@ -1,4 +1,4 @@
-# Task 2: Car Price Prediction with Machine Learning
+# Task 3: Car Price Prediction with Machine Learning
 
 ## Objective
 Build a regression model that predicts the selling price of a used car based on features like brand, age, mileage, fuel type, and transmission.
